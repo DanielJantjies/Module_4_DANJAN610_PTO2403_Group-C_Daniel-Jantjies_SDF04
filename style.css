@@ -1,5 +1,14 @@
 body {
-    background: #eeefed;
+    
+    background-image: url(images/bmw-m3-angel-eyes-black-background-5k-3840x2160-896.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    ;
+
+
 }
 
 a {
